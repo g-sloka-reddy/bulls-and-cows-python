@@ -9,8 +9,8 @@ A classic number-guessing game implemented in Python. The computer generates a s
 2. For each guess you enter, you will receive a hint:
    - **Bulls:** Correct digit in the **correct** position.
    - **Cows:** Correct digit in the **wrong** position.
-3. Keep guessing until you match all 4 digits and win[cite: 1]!
-4. Type `quit` at any time to exit the game[cite: 1].
+3. Keep guessing until you match all 4 digits and win!
+4. Type `quit` at any time to exit the game.
 
 ## 🚀 Running the Game
 
