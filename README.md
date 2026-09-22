@@ -17,4 +17,4 @@ A classic number-guessing game implemented in Python. The computer generates a s
 ### Locally
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/g-sloka-reddy/bulls-and-cows-python.git](https://github.com/YOUR-USERNAME/bulls-and-cows-python.git)
+   git clone [https://github.com/g-sloka-reddy/bulls-and-cows-python.git](https://github.com/g-sloka-reddy/bulls-and-cows-python.git)
